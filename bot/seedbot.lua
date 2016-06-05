@@ -225,6 +225,7 @@ function create_config( )
     "linkpv",
     "loc",
     "lockbadw",
+    "boobs",
     "lock_join",
     "helps",
     "lock_tag",

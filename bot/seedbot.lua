@@ -229,7 +229,7 @@ function create_config( )
     "lock_tag",
     "lock_username",
     "me",
-    "plugins",
+    "plug",
     "psycho",
     "qr",
     "restart",

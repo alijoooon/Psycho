@@ -230,6 +230,7 @@ function create_config( )
     "lock_username",
     "me",
     "plug",
+    "aparat",
     "psycho",
     "qr",
     "restart",

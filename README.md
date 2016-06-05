@@ -1,8 +1,8 @@
-# [TeleSeed](https://telegram.me/TeleSeed)
+# [PSYCHO](https://telegram.me/PSYCHO_TG)
 
-[![Join the chat at https://gitter.im/SEEDTEAM/TeleSeed](https://badges.gitter.im/SEEDTEAM/TeleSeed.svg)](https://gitter.im/SEEDTEAM/TeleSeed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/psycho_TEAM/psycho](https://badges.gitter.im/SEEDTEAM/psycho_tg.svg)](https://gitter.im/psycho_team/psycho_TG ?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-**An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**.
+**An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/alijoooon/Psycho/blob/master/LICENSE)**.
 # Features
 
 * **A powerful antispam system with custom sensitivity for each group**
@@ -21,7 +21,7 @@
 * **And more!**
 
 **Table of Contents**
-- [TeleSeed](#teleseed)
+- [PSYCHO](#PSYCHO)
 - [Features](#features)
 - [Commands](#commands)
 	- [Admins commands](#admins-commands)
@@ -202,7 +202,7 @@
 >>>This commands will globally ban [id]
 >
 >/sync_gbans
->>Sync your global bans with teleseed
+>>Sync your global bans with PSYCHO
 >
 >[!/]unbanall [id]
 >>[!/]unbanall 123456789
@@ -221,7 +221,7 @@
 >>>This command will set [User_id] as the owner of [group_id]
 
 ### Bot stats
->[!/]stats teleseed
+>[!/]stats PSYCHO
 >>This command will return bot stats
 
 # Realm Help
@@ -439,8 +439,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/SEEDTEAM/TeleSeed.git
-cd TeleSeed
+git clone https://github.com/alijoooon/Psycho
+cd Psycho
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
@@ -449,7 +449,7 @@ chmod +x launch.sh
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 ```sh
 #https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make autoconf unzip git redis-server g++ -y --force-yes && git clone https://github.com/SEEDTEAM/TeleSeed.git && cd TeleSeed && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make autoconf unzip git redis-server g++ -y --force-yes && git clone https://github.com/alijoooon/Psycho.git && cd Psycho && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 ### Realm configuration
 
@@ -471,15 +471,15 @@ Create a realm using the `!createrealm` command.
 
 # Support and development
 
-Check out this [tutorial by Telegram Geeks](http://telegramgeeks.com/2016/01/teleseed-tutorial/) for further assistance with setup and installation.
+Check out this [tutorial by Telegram Geeks](http://telegramgeeks.com/2016/01/PSYCHO-tutorial/) for further assistance with setup and installation.
 
 **Do not contact us** in private for support.
-Join our bot development group by sending `/join 56670147` to [@TeleSeed](https://telegram.me/TeleSeed)
+Join our bot development group by sending `/join 56670147` to [@PSYCHO_TEAM](https://telegram.me/PSYCHO_TEAM)
 
 # Special thanks to
 [@seyedan25](https://telegram.me/seyedan25)
 
-For managing [@teleseed](https://telegram.me/TeleSeed) on Telegram.
+For managing [@PSYCHO_TEAM](https://telegram.me/PSYCHO_TEAM) on Telegram.
 
 [@Vamptacus](https://telegram.me/Vamptacus)
 
@@ -491,16 +491,16 @@ For graphic designs.
 
 # Our team!
 
-[Alphonse](https://github.com/hmon) ([Telegram](https://telegram.me/iwals))
+[Alphonse]((https://github.com/ALIJOOOON)) ([Telegram](https://github.com/ALIJOOOON)))
 
-[I M /-\ N](https://github.com/imandaneshi) ([Telegram](https://telegram.me/imandaneshi))
+[ALI]((https://github.com/ALIJOOOON)) ([Telegram](https://github.com/ALIJOOOON)))
 
-[Siyanew](https://github.com/Siyanew) ([Telegram](https://telegram.me/Siyanew))
+[ALI](https://github.com/Siyanew) ([Telegram]((https://github.com/ALIJOOOON)))
 
-[Rondoozle](https://github.com/Rondoozle) ([Telegram](https://telegram.me/POTUS))
+[Rondoozle](https://github.com/ALIJOOOON) ([Telegram]((https://github.com/ALIJOOOON)))
 
 ### Our Telegram channels:
 
-English: [@TeleSeedCH](https://telegram.me/teleseedch)
+PSERSIN: [@PSYCHO_TEAM](https://telegram.me/PSYCHO_TEAM)
 
-Persian: [@IranSeed](https://telegram.me/iranseed)
+

@@ -226,6 +226,7 @@ function create_config( )
     "loc",
     "lockbadw",
     "lock_join",
+    "helps",
     "lock_tag",
     "lock_username",
     "me",

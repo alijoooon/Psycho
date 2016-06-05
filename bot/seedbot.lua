@@ -234,6 +234,7 @@ function create_config( )
     "qr",
     "restart",
     "spam",
+    "welcome",
     "spam1",
     "spam2",
     "sticker",
@@ -245,6 +246,12 @@ function create_config( )
     "webshot",
     "ingroup",
     "inpm",
+    "music",
+    "irancell",
+    "fal",
+    "write",
+    "clean_msg",
+    "short",
     "banhammer",
     "stats",
     "anti_spam",
@@ -265,7 +272,7 @@ function create_config( )
     sudo_users = {204713818,164445848,143723991,111020322,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
+    about_text = [[psycho v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
 https://github.com/alijoooon/Psycho
